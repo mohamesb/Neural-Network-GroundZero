@@ -1,0 +1,5 @@
+# .gitignore
+*.tif
+*.zip
+*.mp4
+*.csv
