@@ -10,7 +10,7 @@ This project demonstrates how to build a simple feedforward neural network **fro
   - Hidden layers
   - Sigmoid activation
   - Basic forward and backward propagation
-  - Training with gradient descent
+  - Training with Stochastic gradient descent
 - Tested on a Chest X-ray images of Pnuemonia positive and Covid-19 positive images dataset.
 
 ## 📁 Files
