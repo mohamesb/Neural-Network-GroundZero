@@ -7,15 +7,15 @@ This project demonstrates how to build a simple feedforward neural network **fro
 - Implemented in a **Jupyter Notebook**.
 - Uses **only NumPy**—no high-level machine learning libraries.
 - Supports:
-  - One or more hidden layers
-  - Sigmoid or ReLU activation
+  - Hidden layers
+  - Sigmoid activation
   - Basic forward and backward propagation
   - Training with gradient descent
-- Tested on a small dataset (e.g., XOR or simple classification task).
+- Tested on a Chest X-ray images of Pnuemonia positive and Covid-19 positive images dataset.
 
 ## 📁 Files
 
-- `neural_network_numpy.ipynb`: The main notebook containing code, explanations, and example training runs.
+- `Short_notebook.ipynb`: The main notebook containing code, and training run.
 
 ## 🚀 Getting Started
 
